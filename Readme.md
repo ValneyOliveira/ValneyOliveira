@@ -88,8 +88,6 @@ My name is Valney, a self-taught person with experience in Next.js, Java and Spr
 
 ---
 
-### 📊 Statistics
-
 <p>
   <img 
     align="left" 
