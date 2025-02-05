@@ -74,15 +74,6 @@ My name is Valney, a self-taught person with experience in Next.js, Java and Spr
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-/>
-
 <br/>
 <br/>
 
