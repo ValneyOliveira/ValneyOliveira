@@ -92,6 +92,7 @@ My name is Valney, a self-taught person with experience in Next.js, Java and Spr
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="350"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ValneyOliveira&show_icons=true&theme=cobalt&locale=en&layout=compact" 
     />
 </p>
