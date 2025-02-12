@@ -2,7 +2,6 @@
 
 **`Full-Stack developer`**
 
-My name is Valney, a self-taught person with experience in Next.js, Java and Spring Boot. Driven by curiosity and a passion for learning, I'm always looking for ways to expand my knowledge and improve my skills.
 
 ---
 
