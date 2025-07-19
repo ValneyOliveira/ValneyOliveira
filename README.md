@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil GitHub!</h1>
 
-<h3 align="center">Desenvolvedor Front-End com foco em interfaces modernas, minimalistas e responsivas. Explorando também o universo Java no back-end.</h3>
+<h3 align="center">🚧 Em atualização: reorganizando e melhorando os repositórios.</h3>
 
 ---
 
