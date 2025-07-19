@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil GitHub!</h1>
 
-<h3 align="center">🚧 Em atualização: reorganizando e melhorando os repositórios.</h3>
+<h2 align="center">🚧 Em atualização: reorganizando e melhorando os repositórios.</h2>
 
 ---
 
