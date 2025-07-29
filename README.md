@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil GitHub!</h1>
+<h1 align="center">👋 Olá! Sou o Valney, bem-vindo(a) ao meu perfil </h1>
 
 <h5 align="center">🚧 Em atualização: reorganizando e melhorando os repositórios.</h5>
 
